@@ -1,0 +1,13 @@
+C:\Users\ДИМОООООООН\source\repos\TMP\TMP_46\TMP_46\bin\Debug\netcoreapp3.1\TMP_46.exe
+C:\Users\ДИМОООООООН\source\repos\TMP\TMP_46\TMP_46\bin\Debug\netcoreapp3.1\TMP_46.deps.json
+C:\Users\ДИМОООООООН\source\repos\TMP\TMP_46\TMP_46\bin\Debug\netcoreapp3.1\TMP_46.runtimeconfig.json
+C:\Users\ДИМОООООООН\source\repos\TMP\TMP_46\TMP_46\bin\Debug\netcoreapp3.1\TMP_46.runtimeconfig.dev.json
+C:\Users\ДИМОООООООН\source\repos\TMP\TMP_46\TMP_46\bin\Debug\netcoreapp3.1\TMP_46.dll
+C:\Users\ДИМОООООООН\source\repos\TMP\TMP_46\TMP_46\bin\Debug\netcoreapp3.1\TMP_46.pdb
+C:\Users\ДИМОООООООН\source\repos\TMP\TMP_46\TMP_46\obj\Debug\netcoreapp3.1\TMP_46.csprojAssemblyReference.cache
+C:\Users\ДИМОООООООН\source\repos\TMP\TMP_46\TMP_46\obj\Debug\netcoreapp3.1\TMP_46.AssemblyInfoInputs.cache
+C:\Users\ДИМОООООООН\source\repos\TMP\TMP_46\TMP_46\obj\Debug\netcoreapp3.1\TMP_46.AssemblyInfo.cs
+C:\Users\ДИМОООООООН\source\repos\TMP\TMP_46\TMP_46\obj\Debug\netcoreapp3.1\TMP_46.csproj.CoreCompileInputs.cache
+C:\Users\ДИМОООООООН\source\repos\TMP\TMP_46\TMP_46\obj\Debug\netcoreapp3.1\TMP_46.dll
+C:\Users\ДИМОООООООН\source\repos\TMP\TMP_46\TMP_46\obj\Debug\netcoreapp3.1\TMP_46.pdb
+C:\Users\ДИМОООООООН\source\repos\TMP\TMP_46\TMP_46\obj\Debug\netcoreapp3.1\TMP_46.genruntimeconfig.cache

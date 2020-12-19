@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J3TDVEQAJifGMb4E7gR8/Gs6DxXKHR2zjfBMqf5RgaNgP8gFUGUkxoyyoMMXMA5pVjR8QyqmncRZXAI3IQc9xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ДИМОООООООН\\source\\repos\\TMP\\TMP_46\\TMP_46\\TMP_46.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ДИМОООООООН\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ДИМОООООООН\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
